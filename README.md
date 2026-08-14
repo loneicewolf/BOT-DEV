@@ -9,3 +9,7 @@ smaller note:
  
 # Thanks For Reading!
 This will be fun!
+
+---
+# Special Thanks
+- [Thank You 忍野にゃんこ](https://github.com/loneicewolf/Shout-Outs/blob/main/README.md#thank-you-%E5%BF%8D%E9%87%8E%E3%81%AB%E3%82%83%E3%82%93%E3%81%93) for inspiring and motivating me for making this!
